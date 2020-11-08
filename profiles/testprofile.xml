@@ -21,5 +21,11 @@
             <comment></comment>
             <confidence-score>0.0</confidence-score>
         </entry>
+        <entry id="4">
+            <term lang="de">Dusche</term>
+            <term lang="en">shower</term>
+            <comment>noun</comment>
+            <confidence-score>0.0</confidence-score>
+        </entry>
     </termbase>
 </profile>
