@@ -1,0 +1,8 @@
+<root>
+  <ThisIsATagName/>
+  <child3/>
+</root>
+<root>
+  <ThisIsATagName/>
+  <child3/>
+</root>

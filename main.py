@@ -18,9 +18,7 @@ COMPLETED:
 
 
 from PyQt5 import QtWidgets
-
 from untitled import Ui_Dialog # Importing our generated file
-
 import sys
 
 
