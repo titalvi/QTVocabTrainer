@@ -1,0 +1,25 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE profile SYSTEM "profile.dtd">
+<profile>
+    <username>testprofile</username>
+    <termbase lang-pair="de-en">
+        <entry id="1">
+            <term lang="de">schlafen</term>
+            <term lang="en">sleep</term>
+            <comment>verb</comment>
+            <confidence-score>0.0</confidence-score>
+        </entry>
+        <entry id="2">
+            <term lang="de">wählen</term>
+            <term lang="en">elect</term>
+            <comment>Context: politics</comment>
+            <confidence-score>0.0</confidence-score>
+        </entry>
+        <entry id="3">
+            <term lang="de">Bett</term>
+            <term lang="en">bed</term>
+            <comment></comment>
+            <confidence-score>0.0</confidence-score>
+        </entry>
+    </termbase>
+</profile>
