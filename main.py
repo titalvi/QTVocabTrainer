@@ -7,12 +7,13 @@
 """
 TO-DO:
  - start building HTML table in display (for glossary)
- - add current files to GitHub repo (https://github.com/titalvi/QtVocabTrainer)
  - implement XML database
+ - get fetch and manipulate XML database with lxml (https://lxml.de/tutorial.html)
  - create second view/window for exercises
 
 COMPLETED:
  - automatically create link for source language word to source dictionary information (i.e. OED etc)
+ - add current files to GitHub repo (https://github.com/titalvi/QtVocabTrainer)
 """
 
 

@@ -1,0 +1,12 @@
+<!ELEMENT profile (username,termbase)>
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT termbase (entry+)>
+<!ELEMENT entry (term+,comment,confidence-score)>
+<!ELEMENT term (#PCDATA)>
+<!ELEMENT comment (#PCDATA)>
+<!ELEMENT confidence-score (#PCDATA)>
+
+
+<!ATTLIST termbase lang-pair CDATA #REQUIRED>
+<!ATTLIST term lang CDATA #REQUIRED>
+<!ATTLIST entry id CDATA #REQUIRED>
